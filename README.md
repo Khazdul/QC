@@ -18,3 +18,7 @@ Install:
 
 1) Open the package manager in mudlet (Alt+O) and add the package file for QC.
 2) Type #help
+
+Screenshot:
+
+![image](https://user-images.githubusercontent.com/125484214/224510396-fd2211c2-1c89-41d5-ac15-09648e3e15d0.png)
